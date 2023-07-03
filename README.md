@@ -1,4 +1,5 @@
 Introduction
+
 For this assessment, you'll be working on Flatdango.
 
 Flatiron Movie Theater is open for business! You will be building out an
@@ -8,9 +9,11 @@ theater.
 The instructions below will walk you through the process of ideation and planning your app: deciding on your user interface, planning how the information will be laid out on the page, etc. You should work through all the planning steps before you start doing any coding.
 
 Requirements
+
 For this project, you must:
 
 Have a well-written README file.
+
 Fetch data from a local server running JSON DB server.
 Pre-requisite Data
 You can use this JSON file for your server DB.
