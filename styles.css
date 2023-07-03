@@ -1,0 +1,60 @@
+body {
+  background-color: lightgoldenrodyellow;
+}
+
+header {
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+  font-size: xx-large;
+  background-color: darkslategray;
+  font-weight: 600;
+  padding: 10px;
+}
+
+#films {
+  list-style: none;
+  margin-top: 10px;
+}
+
+.theater {
+  padding: 13px;
+  color: black;
+  max-width: 250px;
+}
+
+.theater:hover {
+  cursor: pointer;
+  background-color: darkkhaki;
+}
+
+#movie-details {
+  display: block;
+  position: absolute;
+  top: 30%;
+  left: 27%;
+}
+
+img {
+  width: 800px;
+  height: 600px;
+}
+
+.inline {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  font-style: italic;
+  font-size: larger;
+  padding: 5px;
+}
+
+#button {
+  position: absolute;
+  left: 50%;
+  color: cornsilk;
+  background-color: darkolivegreen;
+}
+/* .button:hover{
+  color: darkolivegreen;
+} */
